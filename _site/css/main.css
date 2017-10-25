@@ -1,0 +1,11 @@
+/* Custom CSS */
+.material-icons {
+  vertical-align: text-bottom;
+  color: #005FAA; }
+
+#mapcontainer {
+  padding-left: 0;
+  padding-right: 0; }
+
+#mapid {
+  height: 94vh; }

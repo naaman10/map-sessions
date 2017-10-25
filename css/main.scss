@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+// Color Variables
+
+$primary: #ffffff;
+$secondary: #071013;
+$accent: #E1AEBA;
+
+// Font Variables
+
+$font-header: 'Playfair Display', serif;
+$font-body: 'Raleway', sans-serif;
+
+
+
+/* Custom CSS */
+.material-icons {
+      vertical-align: text-bottom;
+      color: #005FAA;
+}
+#mapcontainer {
+  padding-left: 0;
+  padding-right: 0;
+}
+#mapid {
+  height: 94vh;
+}
